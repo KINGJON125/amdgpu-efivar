@@ -3,7 +3,7 @@
 want to disable the dGPU without macOS this repo will help you 
 
 This repository contains the AMD GPU preset EFI variable for use in in my arch install guid. This variable will disable the AMD GPU on mac and arch.
-it is just the [dosdude1](URL) way but without macOS 
+it is just the [dosdude1](https://dosdude1.com/gpudisable/) way but without macOS 
 
 **status**: UNTESTED ⚠️
 
