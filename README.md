@@ -40,4 +40,4 @@ This repository provides the necessary EFI variable settings for disableing AMD 
 
 
 
-Feel free to customize the sections, especially the installation and usage instructions, based on your specific implementation and any additional details you want to include. also i am not reposible about any damege 
+Feel free to customize the sections, especially the installation and usage instructions, based on your specific implementation and any additional details you want to include. also i am not reposible about any damage. 
