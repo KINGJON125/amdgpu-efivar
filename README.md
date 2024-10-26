@@ -1,4 +1,4 @@
-# AMD GPU EFI Variable
+# AMD GPU EFI Variable (late 2011 macbook pro) 
 
 This repository contains the AMD GPU preset EFI variable for use in in my arch install guid. This variable will disable the AMD GPU on mac and arch.
 it is just the [dosdude1](URL) way but without macOS 
