@@ -21,7 +21,7 @@ This repository provides the necessary EFI variable settings for disableing AMD 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/amdgpu-efivar.git
-   cd amd-gpu-preset-efi
+   cd amdgpu-efivar
    ```
    (make sure that this file have this name 'gpu-power-prefs-fa4ce28d-b62f-4c99-4cc3-6815686e30f9'
 2. Copy the file to the efivar file
